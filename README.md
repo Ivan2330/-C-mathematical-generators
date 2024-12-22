@@ -111,19 +111,19 @@ Squares the previous number and takes the middle digits.
 
 Simple but less reliable for long sequences.
 
-### 6️⃣ Additive Congruential Generator
+### 6️⃣ 3-Sigma Method Generator
 
 Generates numbers by summing two previous values.
 
 Balanced distribution across large ranges.
 
-### 7️⃣ XOR-Shift Generator
+### 7️⃣ Polar Coordinate Method Generator
 
 Uses XOR and bit-shifting for fast random number generation.
 
 Suitable for high-speed requirements.
 
-### 8️⃣ Halton Sequence Generator
+### 8️⃣ Ratio Method Generator
 
 Produces low-discrepancy sequences.
 
