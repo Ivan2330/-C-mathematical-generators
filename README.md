@@ -1,6 +1,6 @@
 # C++-Mathematical Generators
 
-##📚 Description
+## 📚 Description
 
 This project focuses on creating 10 different mathematical generators using Object-Oriented Programming (OOP) principles.
 - Each generator performs operations with randomly generated big numbers, demonstrating various mathematical and statistical algorithms.
@@ -8,7 +8,7 @@ This project focuses on creating 10 different mathematical generators using Obje
 
 ---
 
-##🚀 Key Features
+## 🚀 Key Features
 
 🛠️ **Object-Oriented Design**: Base abstract class RandomGenerator with multiple derived generator classes.
 
